@@ -12,7 +12,7 @@ headres = {
     'accept-encoding': 'gzip, deflate, br',
     'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
     'cache-control': 'max-age=0',
-    'cookie': 's_fid=75EB3767DE7C88D8-180C49C529498645; s_vi=[CS]v1|30D3942C502598F7-600000189A9395A0[CE]; dslang=CN-ZH; acn01=g9lTbavfLbNAYZ/4Uin1sGbYSbGkarIs37OUALT2cZ0AEA3VmRiwnw==',
+    'cookie': '',
     'dnt': '1',
     'sec-ch-ua': '" Not;A Brand";v="99", "Microsoft Edge";v="97", "Chromium";v="97"',
     'sec-ch-ua-mobile': '?0',
